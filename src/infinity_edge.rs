@@ -15,7 +15,7 @@ impl StableItem for InfinityEdge {
 
     fn icon(&self) -> String {
         // Icon term used for this item. This can be set from item_icons_18x18#data.sprite_sheet file
-        "infinity_edge".to_string()
+        "t5_3".to_string()
     }
 
     fn price(&self) -> usize {
