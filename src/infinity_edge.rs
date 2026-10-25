@@ -14,7 +14,7 @@ impl StableItem for InfinityEdge {
     }
 
     fn icon(&self) -> String {
-        // Icon term used for this item. This can be set from item_icons_18x18#data.sprite_sheet file
+        // Icon term used for this item. Right now it uses a base game texture. This can be changed in the item_icons_18x18#data.sprite_sheet and .png files
         "t5_3".to_string()
     }
 
