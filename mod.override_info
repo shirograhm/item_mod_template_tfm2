@@ -1,0 +1,14 @@
+{
+  "asset/base/text/item": {
+    "remapping": "asset/item_mod_template_tfm2/text/item",
+    "type": "merge"
+  },
+  "asset/base/aseprite_resources/ingame/item_icons_18x18#sheet": {
+    "remapping": "asset/item_mod_template_tfm2/aseprite_resources/ingame/item_icons_18x18#sheet",
+    "type": "override"
+  },
+  "asset/base/aseprite_resources/ingame/item_icons_18x18#data": {
+    "remapping": "asset/item_mod_template_tfm2/aseprite_resources/ingame/item_icons_18x18#data",
+    "type": "override"
+  }
+}

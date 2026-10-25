@@ -1,0 +1,2144 @@
+{
+    "en": {
+        "ironsword": {
+            "name": "Iron Sword",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Soldier's Longsword",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Ruinous Blade",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Conqueror's Greatsword",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Warlord's Final Judgment",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Dagger",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Wind Dagger",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Twin Stormblade",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Thunderclaw",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Storm Sovereign",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Steel Armor",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Gatekeeper's Armor",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Black Knight's Heavy Plate",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Eternal Iron Plate",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Impregnable Fortress",
+            "option": "When hit by a basic attack, deals {Flat} + {Ratio}% of your Armor as magic damage to the attacker."
+        },
+        "mystic_cloak": {
+            "name": "Mystic Cloak",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Night Hood",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Dusk Raven",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Soul's Edge",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Veil of Annihilation",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Arcane Crystal",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Spirit Crystal",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Staff of Rapture",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Angel's Fang",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Prophet of the Abyss",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Vital Orb",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Hardened Heart",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Ring of Reincarnation",
+            "option": "Recovers {Flat} + {Ratio}% of max HP per second."
+        },
+        "hourglass_of_eternity": {
+            "name": "Hourglass of Eternity",
+            "option": "Recovers {Flat} + {Ratio}% of max HP per second."
+        },
+        "giants_horn_shard": {
+            "name": "Giant's Horn Shard",
+            "option": "Recovers {RegenFlat} HP per second and deals {DmgFlat} + {DmgRatio}% of max HP as magic damage to all enemies within {Range} range."
+        },
+        "infinity_edge": {
+            "name": "Infinity Edge",
+            "option": "<#ff7a3eff>Excoriate<>: Gain <#d45656ff>30% critical strike damage<>."
+        }
+    },
+    "vi": {
+        "ironsword": {
+            "name": "Kiếm Gỉ",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Trường Kiếm Vệ Quân",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Tàn Diệt Đao",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Đại Kiếm của Nhà Chinh Phục",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Phán Quyết của Chiến Thần",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Dao Găm",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Đoản Đao Cuồng Phong",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Song Đao Bão Tố",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Thiên Lôi Trảo",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Phong Vương Đao",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Giáp Thép",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Giáp Hộ Vệ",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Thiết Giáp Tàn Hồn",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Thiết Trường Giáp",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Pháo Đài Bất Hoại",
+            "option": "Khi bị đánh thường, gây {Flat}+{Ratio}% Giáp của bạn thành Sát Phương Phép lên kẻ tấn công."
+        },
+        "mystic_cloak": {
+            "name": "Áo Choàng Thần Bí",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Áo Choàng Bóng Tối",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "U Minh Huyền Điểu",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Tử Hồn Nhẫn",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Áo Choàng Diệt Vong",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Tinh thể Arcane",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Giao Linh Thạch",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Trượng Hư Vô",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Nanh Thánh Tích",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Phù Chú Vực Thẳm",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Ngọc Sinh Mệnh",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Trái Tim Khổng Thần",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Nhẫn Luân Hồi",
+            "option": "Hồi {Flat}+{Ratio}% Máu Tối Đa mỗi giây."
+        },
+        "hourglass_of_eternity": {
+            "name": "Đồng Hồ Ngưng Đọng",
+            "option": "Hồi {Flat}+{Ratio}% Máu Tối Đa mỗi giây."
+        },
+        "giants_horn_shard": {
+            "name": "Mảnh Thần Sừng",
+            "option": "Hồi {RegenFlat} Máu mỗi giây và gây Sát Thương Phép bằng {DmgFlat}+{DmgRatio}% Máu Tối Đa lên tất cả kẻ địch trong phạm vi {Range}."
+        },
+        "infinity_edge": {
+            "name": "Vô Cực Kiếm",
+            "option": "\n<#ff7a3eff>Lột Da<>: Nhận <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> sát thương chí mạng<>."
+        }
+    },
+    "zh-hans": {
+        "ironsword": {
+            "name": "铁剑",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "战士长剑",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "破灭刀锋",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "征服者巨剑",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "终焉领主的裁决",
+            "option": ""
+        },
+        "dagger": {
+            "name": "匕首",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "疾风短匕",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "飓风快剑",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "雷霆凶爪",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "风暴骑士的狂涌",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "铁甲",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "守关者之甲",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "黑骑士重甲",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "不朽者铠甲",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "荆棘圣王的壁垒",
+            "option": "受到普通攻击时，对攻击者造成 {Flat}+护甲的 {Ratio}% 魔法伤害。"
+        },
+        "mystic_cloak": {
+            "name": "神秘斗篷",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "暗夜兜帽",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "暮色渡鸦",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "灵魂边界",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "寂灭魔女的面纱",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "奥术晶杖",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "精灵法杖",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "欢欣魔杖",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "天使之牙",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "深渊先知的低语",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "生命宝珠",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "坚毅之心",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "轮回之戒",
+            "option": "每秒回复 {Flat}+最大生命值的 {Ratio}%。"
+        },
+        "hourglass_of_eternity": {
+            "name": "永恒沙漏",
+            "option": "每秒回复 {Flat}+最大生命值的 {Ratio}%。"
+        },
+        "giants_horn_shard": {
+            "name": "烈焰泰坦的残角",
+            "option": "每秒回复 {RegenFlat} 生命值，并对周围 {Range} 范围内所有敌人造成 {DmgFlat}+最大生命值的 {DmgRatio}% 魔法伤害。"
+        },
+        "infinity_edge": {
+            "name": "无尽之刃",
+            "option": "\n<#ff7a3eff>严厉斥责<>：获得 <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> 暴击伤害<>。"
+        }
+    },
+    "pt-BR": {
+        "ironsword": {
+            "name": "Espada de Ferro",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Espada Longa",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Lâmina da Ruína",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Espadão do Conquistador",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Sentença do Senhor da Guerra",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Adaga",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Adaga do Vento",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Lâmina dupla da tempestade",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Garra do Trovão",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Soberano da Tempestade",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Armadura de Aço",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Armadura do Guardião",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Couraça do Cavaleiro Negro",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Armadura de Ferro Eterna",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Fortaleza Impenetrável",
+            "option": "Quando for atingido por um ataque básico, causa ao inimigo Dano Mágico igual a {Flat} + {Ratio}% da Defesa."
+        },
+        "mystic_cloak": {
+            "name": "Manto Místico",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Capuz da Noite",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Corvo do Crepúsculo",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Limite da Alma",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Véu da Aniquilação",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Cristal Arcano",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Cristal Espiritual",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Cajado do Êxtase",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Presa do Anjo",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Profeta do Abismo",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Orbe da Vida",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Coração Endurecido",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Anel da Reencarnação",
+            "option": "Recupera {Flat} + {Ratio}% da Vida Máxima por segundo."
+        },
+        "hourglass_of_eternity": {
+            "name": "Ampulheta da Eternidade",
+            "option": "Recupera {Flat} + {Ratio}% da Vida Máxima por segundo."
+        },
+        "giants_horn_shard": {
+            "name": "Fragmento do Chifre do Gigante",
+            "option": "Recupera {RegenFlat} de Vida por segundo. Além disso, causa Dano Mágico equivalente a {DmgFlat} + {DmgRatio}% da Vida Máxima a todos os inimigos em um raio de {Range}."
+        },
+        "infinity_edge": {
+            "name": "Gume do Infinito",
+            "option": "\n<#ff7a3eff>Trucidar<>: Ganha <#d45656ff>30% de <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> Dano Crítico<>."
+        }
+    },
+    "ru": {
+        "ironsword": {
+            "name": "Железный меч",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Солдатский длинный меч",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Клинок гибели",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Меч завоевателя",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Меч правосудия",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Кинжал",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Кинжал ветра",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Клинки бури",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Громовой коготь",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Повелитель бури",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Стальной доспех",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Доспех привратника",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Латы Черного Рыцаря",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Вечные латы",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Неприступная крепость",
+            "option": "Получая урон от автоатаки, возвращает атакующему магический урон: {Flat} + {Ratio}% от вашей брони."
+        },
+        "mystic_cloak": {
+            "name": "Магический плащ",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Капюшон ночи",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Сумеречный ворон",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Грань душ",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Завеса уничтожения",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Кристалл арканы",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Кристалл духа",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Посох восторга",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Клык ангела",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Пророк бездны",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Сфера жизни",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Окаменевшее сердце",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Кольцо перерождения",
+            "option": "Восстанавливает {Flat}+{Ratio}% от макс. здоровья каждую секунду."
+        },
+        "hourglass_of_eternity": {
+            "name": "Часы вечности",
+            "option": "Восстанавливает {Flat}+{Ratio}% от макс. здоровья каждую секунду."
+        },
+        "giants_horn_shard": {
+            "name": "Осколок рога великана",
+            "option": "Каждую секунду восстанавливает {RegenFlat} здоровье и наносит врагам в радиусе {Range} магический урон в размере {DmgFlat} + {DmgRatio}% от макс. здоровья."
+        },
+        "infinity_edge": {
+            "name": "Грань Бесконечности",
+            "option": "\n<#ff7a3eff>Разнос<>: Даёт <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> критического урона<>."
+        }
+    },
+    "ko": {
+        "ironsword": {
+            "name": "철검",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "병사의 장검",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "파멸의 검",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "정복자의 대검",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "군주의 심판검",
+            "option": ""
+        },
+        "dagger": {
+            "name": "단검",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "바람의 단검",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "폭풍의 쌍날",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "번개발톱",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "폭풍의 군주",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "강철 갑옷",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "문지기의 갑옷",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "흑기사의 중갑",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "영원의 철갑",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "난공불락의 요새",
+            "option": "기본 공격에 맞았을 때 {Flat}+방어력의 {Ratio}%만큼의 마법 대미지를 적에게 입힙니다."
+        },
+        "mystic_cloak": {
+            "name": "마법의 망토",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "밤의 두건",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "어스름 까마귀",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "영혼의 경계",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "절멸의 장막",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "마력의 수정",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "정령의 결정",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "도취의 지팡이",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "천사의 송곳니",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "심연의 예언자",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "생명의 구슬",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "굳은 심장",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "윤회의 고리",
+            "option": "매 초 {Flat}+최대 체력의 {Ratio}%만큼 체력을 회복합니다."
+        },
+        "hourglass_of_eternity": {
+            "name": "억겁의 모래시계",
+            "option": "매 초 {Flat}+최대 체력의 {Ratio}%만큼 체력을 회복합니다."
+        },
+        "giants_horn_shard": {
+            "name": "거인의 뿔조각",
+            "option": "매 초 {RegenFlat}만큼 체력을 회복하고, 주변 {Range} 범위 내 모든 적에게 {DmgFlat}+최대 체력의 {DmgRatio}%만큼 마법 대미지를 입힙니다."
+        },
+        "infinity_edge": {
+            "name": "무한의 대검",
+            "option": "\n<#ff7a3eff>찰과상<>: <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> <#d45656ff>치명타 피해량<>이 <#d45656ff>30%<> 증가합니다."
+        }
+    },
+    "ja": {
+        "ironsword": {
+            "name": "鉄剣",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "兵士の長剣",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "破滅の剣",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "征服者の大剣",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "君主の審判剣",
+            "option": ""
+        },
+        "dagger": {
+            "name": "短剣",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "風の短剣",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "嵐の双刃",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "雷爪",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "嵐の君主",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "鋼鉄の鎧",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "門番の鎧",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "黒騎士の重甲",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "永遠の鉄甲",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "難攻不落の要塞",
+            "option": "通常攻撃を受けた時、{Flat}+防御力の{Ratio}%の魔法ダメージを敵に与えます。"
+        },
+        "mystic_cloak": {
+            "name": "神秘のマント",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "夜のフード",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "黄昏のカラス",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "魂の境界",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "殲滅の帳",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "魔力の結晶",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "精霊の結晶",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "陶酔の杖",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "天使の牙",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "深淵の預言者",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "生命の珠",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "堅い心臓",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "輪廻の輪",
+            "option": "毎秒 {Flat}+最大体力の{Ratio}%の体力を回復します。"
+        },
+        "hourglass_of_eternity": {
+            "name": "億劫の砂時計",
+            "option": "毎秒 {Flat}+最大体力の{Ratio}%の体力を回復します。"
+        },
+        "giants_horn_shard": {
+            "name": "巨人の角欠片",
+            "option": "毎秒{RegenFlat}の体力を回復し、周囲{Range}範囲の全ての敵に{DmgFlat}+最大体力の{DmgRatio}%の魔法ダメージを与えます。"
+        },
+        "infinity_edge": {
+            "name": "インフィニティ エッジ",
+            "option": "\n<#ff7a3eff>非難<>: <#d45656ff>30%の<i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> クリティカルダメージ<>を得る。"
+        }
+    },
+    "de": {
+        "ironsword": {
+            "name": "Eisenschwert",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Langschwert des Soldaten",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Verderbensklinge",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Großschwert des Eroberers",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Richtschwert des Kriegsherrn",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Dolch",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Winddolch",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Zwillingssturmklinge",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Donnerklaue",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Sturmfürst",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Stahlrüstung",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Rüstung des Torwächters",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Schwere Platte des Schwarzen Ritters",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Ewige Eisenplatte",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Uneinnehmbare Festung",
+            "option": "Wenn du von einem normalen Angriff getroffen wirst, fügt es dem Angreifer {Flat}+{Ratio}% deiner Rüstung als magischen Schaden zu."
+        },
+        "mystic_cloak": {
+            "name": "Mystischer Mantel",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Nachthaube",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Dämmerungsrabe",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Seelenkante",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Schleier der Vernichtung",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Arkaner Kristall",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Geisterkristall",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Stab der Verzückung",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Engelsfang",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Prophet des Abgrunds",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Vitalorb",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Gehärtetes Herz",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Ring der Wiedergeburt",
+            "option": "Stellt jede Sekunde {Flat}+{Ratio}% der max. LP wieder her."
+        },
+        "hourglass_of_eternity": {
+            "name": "Sanduhr der Ewigkeit",
+            "option": "Stellt jede Sekunde {Flat}+{Ratio}% der max. LP wieder her."
+        },
+        "giants_horn_shard": {
+            "name": "Hornsplitter des Riesen",
+            "option": "Stellt jede Sekunde {RegenFlat} LP wieder her und fügt allen Gegnern im Umkreis von {Range} {DmgFlat}+{DmgRatio}% der max. LP als magischen Schaden zu."
+        },
+        "infinity_edge": {
+            "name": "Klinge der Unendlichkeit",
+            "option": "\n<#ff7a3eff>Kritikpunkt<>: Erhalte <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> kritischen Schaden<>."
+        }
+    },
+    "tr": {
+        "ironsword": {
+            "name": "Demir Kılıç",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Askerin Uzun Kılıcı",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Yıkım Kılıcı",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Fatihin Büyük Kılıcı",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Savaş Lordunun Son Hükmü",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Hançer",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Rüzgar Hançeri",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "İkiz Fırtına Kılıcı",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Gök Gürültüsü Pençesi",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Fırtına Hükümdarı",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Çelik Zırh",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Kapı Muhafızının Zırhı",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Kara Şövalyenin Ağır Zırhı",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Ebedi Demir Plaka",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Aşılamaz Kale",
+            "option": "Normal saldırıyla vurulduğunda saldırgana {Flat}+Zırhının {Ratio}%'i kadar büyü hasarı verir."
+        },
+        "mystic_cloak": {
+            "name": "Mistik Pelerin",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Gece Başlığı",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Alacakaranlık Kuzgunu",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Ruhun Eşiği",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Yok Oluş Perdesi",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Arkane Kristal",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Ruh Kristali",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Vecd Asası",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Meleğin Dişi",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Uçurumun Kahini",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Yaşam Küresi",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Sertleşmiş Kalp",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Reenkarnasyon Yüzüğü",
+            "option": "Saniyede {Flat}+azami CP'nin {Ratio}%'i kadar CP yeniler."
+        },
+        "hourglass_of_eternity": {
+            "name": "Ebediyet Kum Saati",
+            "option": "Saniyede {Flat}+azami CP'nin {Ratio}%'i kadar CP yeniler."
+        },
+        "giants_horn_shard": {
+            "name": "Devin Boynuz Parçası",
+            "option": "Saniyede {RegenFlat} CP yeniler ve {Range} menzil içindeki tüm düşmanlara {DmgFlat}+azami CP'nin {DmgRatio}%'i kadar büyü hasarı verir."
+        },
+        "infinity_edge": {
+            "name": "Ebedi Kılıç",
+            "option": "\n<#ff7a3eff>Payla<>: <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> kritik vuruş hasarı<> kazanırsın."
+        }
+    },
+    "es-ES": {
+        "ironsword": {
+            "name": "Espada de hierro",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Espada larga del soldado",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Hoja ruinosa",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Mandoble del conquistador",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Juicio final del señor de la guerra",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Daga",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Daga de viento",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Hojas gemelas de la tormenta",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Garra de trueno",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Soberano de la tormenta",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Armadura de acero",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Armadura del guardián",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Placa pesada del caballero negro",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Placa de hierro eterna",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Fortaleza inexpugnable",
+            "option": "Al recibir un ataque básico, inflige {Flat}+{Ratio}% de tu Armadura como daño mágico al atacante."
+        },
+        "mystic_cloak": {
+            "name": "Capa mística",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Capucha nocturna",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Cuervo del crepúsculo",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Filo del alma",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Velo de aniquilación",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Cristal arcano",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Cristal espiritual",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Bastón del éxtasis",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Colmillo del ángel",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Profeta del abismo",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Orbe vital",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Corazón endurecido",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Anillo de reencarnación",
+            "option": "Recupera {Flat}+{Ratio}% de los PV máximos por segundo."
+        },
+        "hourglass_of_eternity": {
+            "name": "Reloj de arena de la eternidad",
+            "option": "Recupera {Flat}+{Ratio}% de los PV máximos por segundo."
+        },
+        "giants_horn_shard": {
+            "name": "Fragmento de cuerno de gigante",
+            "option": "Recupera {RegenFlat} PV por segundo e inflige {DmgFlat}+{DmgRatio}% de los PV máximos como daño mágico a todos los enemigos dentro de {Range} de alcance."
+        },
+        "infinity_edge": {
+            "name": "Filo infinito",
+            "option": "\n<#ff7a3eff>Vituperar<>: Obtienes un <#d45656ff>30% de <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> daño crítico<>."
+        }
+    },
+    "fr": {
+        "ironsword": {
+            "name": "Épée de fer",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Épée longue du soldat",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Lame de ruine",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Espadon du conquérant",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Jugement final du seigneur de guerre",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Dague",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Dague du vent",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Lames jumelles de la tempête",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Griffe de tonnerre",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Souverain de la tempête",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Armure d'acier",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Armure du gardien",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Plaque lourde du chevalier noir",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Plaque de fer éternelle",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Forteresse imprenable",
+            "option": "Quand vous subissez une attaque de base, inflige {Flat}+{Ratio}% de votre Armure en dégâts magiques à l'attaquant."
+        },
+        "mystic_cloak": {
+            "name": "Cape mystique",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Capuche de nuit",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Corbeau du crépuscule",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Lisière de l'âme",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Voile d'annihilation",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Cristal arcanique",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Cristal spirituel",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Bâton de ravissement",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Croc de l'ange",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Prophète de l'abîme",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Orbe vital",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Cœur endurci",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Anneau de réincarnation",
+            "option": "Restaure {Flat}+{Ratio}% des PV max chaque seconde."
+        },
+        "hourglass_of_eternity": {
+            "name": "Sablier d'éternité",
+            "option": "Restaure {Flat}+{Ratio}% des PV max chaque seconde."
+        },
+        "giants_horn_shard": {
+            "name": "Fragment de corne du géant",
+            "option": "Restaure {RegenFlat} PV par seconde et inflige {DmgFlat}+{DmgRatio}% des PV max en dégâts magiques à tous les ennemis dans une portée de {Range}."
+        },
+        "infinity_edge": {
+            "name": "Lame d'infini",
+            "option": "\n<#ff7a3eff>Excoriation<>: Vous gagnez <#d45656ff>30% de <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> dégâts des coups critiques<>."
+        }
+    },
+    "it": {
+        "ironsword": {
+            "name": "Spada di ferro",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Spada lunga del soldato",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Lama della rovina",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Spadone del conquistatore",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Giudizio del signore della guerra",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Pugnale",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Pugnale del vento",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Lame gemelle della tempesta",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Artiglio del tuono",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Sovrano delle tempeste",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Armatura d'acciaio",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Armatura del guardiano",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Corazza pesante del cavaliere nero",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Piastra di ferro eterna",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Fortezza inespugnabile",
+            "option": "Quando vieni colpito da un attacco base, infliggi all'attaccante danni magici pari a {Flat} + {Ratio}% della tua Armatura."
+        },
+        "mystic_cloak": {
+            "name": "Mantello mistico",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Cappuccio della notte",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Corvo del crepuscolo",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Lama delle anime",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Velo dell'annientamento",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Cristallo arcano",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Cristallo degli spiriti",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Bastone dell'estasi",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Zanna d'angelo",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Profeta dell'abisso",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Globo vitale",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Cuore indurito",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Anello della reincarnazione",
+            "option": "Recupera {Flat} + {Ratio}% dei PS massimi al secondo."
+        },
+        "hourglass_of_eternity": {
+            "name": "Clessidra dell'eternità",
+            "option": "Recupera {Flat} + {Ratio}% dei PS massimi al secondo."
+        },
+        "giants_horn_shard": {
+            "name": "Frammento di corno di gigante",
+            "option": "Recupera {RegenFlat} PS al secondo e infligge danni magici pari a {DmgFlat} + {DmgRatio}% dei PS massimi a tutti i nemici entro {Range} di raggio."
+        },
+        "infinity_edge": {
+            "name": "Frammento d'infinito",
+            "option": "\n<#ff7a3eff>Escoriare<>: Ottieni il <#d45656ff>30% di <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> danni da colpo critico<>."
+        }
+    },
+    "zh-hant": {
+        "ironsword": {
+            "name": "鐵劍",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "士兵長劍",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "毀滅鋒刃",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "征服者巨劍",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "暴君的終末裁決",
+            "option": ""
+        },
+        "dagger": {
+            "name": "匕首",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "風之匕首",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "暴風雙刃",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "雷霆之爪",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "風暴狂潮的君主",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "鋼鐵護甲",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "守門人鎧甲",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "黑騎士重甲",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "不朽板甲",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "不破壁壘",
+            "option": "受到普通攻擊時，對攻擊者造成 {Flat} + {Ratio}% 物理防禦的魔法傷害。"
+        },
+        "mystic_cloak": {
+            "name": "神秘斗篷",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "夜之兜帽",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "暮色渡鴉",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "靈魂邊界",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "湮滅帷幕",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "奧術水晶",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "靈能晶核",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "狂喜法杖",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "天使的聖牙",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "深淵預言者",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "生命寶珠",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "堅毅之心",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "輪迴之戒",
+            "option": "每秒回復 {Flat} + 最大生命值{Ratio}%的生命。"
+        },
+        "hourglass_of_eternity": {
+            "name": "永恆沙漏",
+            "option": "每秒回復 {Flat} + 最大生命值{Ratio}%的生命。"
+        },
+        "giants_horn_shard": {
+            "name": "憤怒巨靈的碎角",
+            "option": "每秒回復 {RegenFlat} 生命值，並對周圍 {Range} 範圍內所有敵人造成 {DmgFlat}+最大生命值{DmgRatio}% 的魔法傷害。"
+        },
+        "infinity_edge": {
+            "name": "無盡之刃",
+            "option": "\n<#ff7a3eff>剝皮<>：獲得<#d45656ff>30%<i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> 暴擊傷害<>。"
+        }
+    },
+    "pl": {
+        "ironsword": {
+            "name": "Żelazny Miecz",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Klinga Żołnierza",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Ostrze Zagłady",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Wielki Miecz Zdobywcy",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Boski Wyrok",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Sztylet",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Sztylet Wiatru",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Bliźniacze Ostrza Burzy",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Szpon Gromu",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Władca Burzy",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Stalowy Pancerz",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Pancerz Wartownika",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Ciężka Zbroja Czarnego Rycerza",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Relikt Wieczności",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Niezdobyta Twierdza",
+            "option": "Po zadaniu obrażeń atakiem podstawowym zadaje przeciwnikowi {Flat} + {Ratio}% pancerza jako obrażenia magiczne."
+        },
+        "mystic_cloak": {
+            "name": "Szata Maga",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Kaptur Nocy",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Kruczy Całun",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Szata Potępionych",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Płaszcz Unicestwienia",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Różdżka Many",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Berło Duchów",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Kostur Urojenia",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Relikt Niebios",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Wyrocznia Pustki",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Esencja Życia",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Serce Natury",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Pierścień Reinkarnacji",
+            "option": "Co sekundę przywraca {Flat} + {Ratio}% maksymalnego zdrowia."
+        },
+        "hourglass_of_eternity": {
+            "name": "Klepsydra Wieczności",
+            "option": "Co sekundę przywraca {Flat} + {Ratio}% maksymalnego zdrowia."
+        },
+        "giants_horn_shard": {
+            "name": "Serce Tytana",
+            "option": "Co sekundę przywraca {RegenFlat} zdrowia oraz zadaje wszystkim przeciwnikom w promieniu {Range} jednostek {DmgFlat} + {DmgRatio}% maksymalnego zdrowia jako obrażenia magiczne."
+        },
+        "infinity_edge": {
+            "name": "Ostrze Nieskończoności",
+            "option": "\n<#ff7a3eff>Obdarcie ze Skóry<>: Zyskujesz <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> obrażeń krytycznych<>."
+        }
+    },
+    "th": {
+        "ironsword": {
+            "name": "ดาบเหล็ก",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "ดาบยาวทหาร",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "ดาบแห่งความพินาศ",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "ดาบใหญ่ผู้พิชิต",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "ดาบพิพากษาจอมราชัน",
+            "option": ""
+        },
+        "dagger": {
+            "name": "มีดสั้น",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "มีดสั้นแห่งสายลม",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "ดาบคู่พายุหมุน",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "กรงเล็บสายฟ้า",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "เจ้าแห่งพายุ",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "เกราะเหล็กกล้า",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "เกราะผู้คุมประตู",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "เกราะหนักอัศวินดำ",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "เกราะเหล็กนิรันดร์",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "ป้อมปราการไร้พ่าย",
+            "option": "เมื่อถูกโจมตีปกติ จะสร้างดาเมจเวท {Flat} + {Ratio}% ของเกราะ ใส่ศัตรู"
+        },
+        "mystic_cloak": {
+            "name": "ผ้าคลุมเวทมนตร์",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "ฮูดแห่งรัตติกาล",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "อีกาโพล้เพล้",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "เขตแดนแห่งวิญญาณ",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "ม่านหมอกแห่งการทำลายล้าง",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "คริสตัลมานา",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "ผลึกภูต",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "คทาใหลหลง",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "เขี้ยวเทวา",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "ผู้หยั่งรู้แห่งขุมนรก",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "ลูกแก้วแห่งชีวิต",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "หัวใจแน่วแน่",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "วงล้อแห่งวัฏสงสาร",
+            "option": "ฟื้นฟูพลังชีวิต {Flat} + {Ratio}% ของพลังชีวิตสูงสุด ทุกวินาที"
+        },
+        "hourglass_of_eternity": {
+            "name": "นาฬิกาทรายกัลปาวสาน",
+            "option": "ฟื้นฟูพลังชีวิต {Flat} + {Ratio}% ของพลังชีวิตสูงสุด ทุกวินาที"
+        },
+        "giants_horn_shard": {
+            "name": "เศษเขายักษ์",
+            "option": "ฟื้นฟูพลังชีวิต {RegenFlat} ทุกวินาที และสร้างดาเมจเวท {DmgFlat} + {DmgRatio}% ของพลังชีวิตสูงสุด ใส่ศัตรูทั้งหมดในระยะ {Range} รอบตัว"
+        },
+        "infinity_edge": {
+            "name": "Infinity Edge",
+            "option": "\n<#ff7a3eff>Excoriate<>: ได้รับ<#d45656ff>ดาเมจคริติคอล 30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0><>"
+        }
+    },
+    "nl": {
+        "ironsword": {
+            "name": "IJzeren Zwaard",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Langzwaard van de Soldaat",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Verderfelijk Lemmet",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Grootzwaard van de Veroveraar",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Laatste Oordeel van de Krijgsheer",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Dolk",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Winddolk",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Dubbel Stormlemmet",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Donderklauw",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Stormsoeverein",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Stalen Pantser",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Pantser van de Poortwachter",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Zware Plaat van de Zwarte Ridder",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Eeuwige IJzeren Plaat",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Onneembare Vesting",
+            "option": "Wanneer je door een basisaanval wordt geraakt, brengt dit {Flat}+{Ratio}% van je Pantser als magische schade toe aan de aanvaller."
+        },
+        "mystic_cloak": {
+            "name": "Mystieke Mantel",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Nachtskap",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Schemerraaf",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Zielsrand",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Sluier van Vernietiging",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Arcanekristal",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Geestkristal",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Staf van Verrukking",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Engelentand",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Profeet van de Afgrond",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Vitale Bol",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Verhard Hart",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Ring van Reïncarnatie",
+            "option": "Herstelt elke seconde {Flat}+{Ratio}% van max HP."
+        },
+        "hourglass_of_eternity": {
+            "name": "Zandloper van Eeuwigheid",
+            "option": "Herstelt elke seconde {Flat}+{Ratio}% van max HP."
+        },
+        "giants_horn_shard": {
+            "name": "Hoornscherf van de Reus",
+            "option": "Herstelt elke seconde {RegenFlat} HP en brengt {DmgFlat}+{DmgRatio}% van max HP als magische schade toe aan alle vijanden binnen {Range} bereik."
+        },
+        "infinity_edge": {
+            "name": "Infinity Edge",
+            "option": "\n<#ff7a3eff>Excoriate<>: Krijg <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> kritieke schade<>."
+        }
+    },
+    "haw": {
+        "ironsword": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "soldiers_longsword": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "ruinous_blade": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "conquerors_greatsword": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "warlords_final_judgement": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "dagger": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "wind_dagger": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "twin_stormblade": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "thunderclaw": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "storm_sovereign": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "steel_armor": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "gatekeepers_armor": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "black_knights_heavy_plate": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "eternal_iron_plate": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "impregnable_fortress": {
+            "name": "Inoa",
+            "option": "Ke pā ʻia e ka hoʻouka kumu, hana i ka pōʻino kilokilo {Flat}+{Ratio}% o ka pale i ka ʻenemi."
+        },
+        "mystic_cloak": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "night_hood": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "dusk_raven": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "souls_edge": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "veil_of_annihilation": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "arcane_crystal": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "spirit_crystal": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "staff_of_rapture": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "angels_fang": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "prophet_of_the_abyss": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "vital_orb": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "hardened_heart": {
+            "name": "Inoa",
+            "option": ""
+        },
+        "ring_of_reincarnation": {
+            "name": "Inoa",
+            "option": "Hoʻōla i ke ola he {Flat}+{Ratio}% o ke ola kiʻekiʻe i kēlā me kēia kekona."
+        },
+        "hourglass_of_eternity": {
+            "name": "Inoa",
+            "option": "Hoʻōla i ke ola he {Flat}+{Ratio}% o ke ola kiʻekiʻe i kēlā me kēia kekona."
+        },
+        "giants_horn_shard": {
+            "name": "Inoa",
+            "option": "Hoʻōla i ke ola he {RegenFlat} i kēlā me kēia kekona, a hana i ka pōʻino kilokilo {DmgFlat}+{DmgRatio}% o ke ola kiʻekiʻe i nā ʻenemi a pau ma loko o {Range}."
+        },
+        "infinity_edge": {
+            "name": "Infinity Edge",
+            "option": "\n<#ff7a3eff>Excoriate<>: Loaʻa iā ʻoe he <#d45656ff>30% <i#asset/base/ui/banpick/champion_stat_icon:crit_damage_0> pōʻino kū hōʻino<>."
+        }
+    }
+}

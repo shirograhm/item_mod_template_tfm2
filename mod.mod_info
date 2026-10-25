@@ -1,0 +1,16 @@
+{
+  "name": "[your_mod_name]",
+  "author": "[your_name]",
+  "mod_id": "item_mod_template_tfm2",
+  "mod_type": "native",
+  "contains_code": true,
+  "version": "1.0.0",
+  "description": "[your_mod_description]",
+  "last_updated": "2026-10-24",
+  "dependencies": [
+    {
+      "mod_id": "base",
+      "version": "=0.6.5"
+    }
+  ]
+}
